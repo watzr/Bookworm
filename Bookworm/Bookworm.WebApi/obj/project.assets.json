@@ -1325,11 +1325,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Projects\\Bookworm\\Bookworm\\Bookworm.WebApi\\Bookworm.WebApi.csproj",
+      "projectUniqueName": "D:\\My Projects\\Bookworm Project\\Bookworm\\Bookworm\\Bookworm.WebApi\\Bookworm.WebApi.csproj",
       "projectName": "Bookworm.WebApi",
-      "projectPath": "D:\\My Projects\\Bookworm\\Bookworm\\Bookworm.WebApi\\Bookworm.WebApi.csproj",
+      "projectPath": "D:\\My Projects\\Bookworm Project\\Bookworm\\Bookworm\\Bookworm.WebApi\\Bookworm.WebApi.csproj",
       "packagesPath": "C:\\Users\\waths\\.nuget\\packages\\",
-      "outputPath": "D:\\My Projects\\Bookworm\\Bookworm\\Bookworm.WebApi\\obj\\",
+      "outputPath": "D:\\My Projects\\Bookworm Project\\Bookworm\\Bookworm\\Bookworm.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\waths\\AppData\\Roaming\\NuGet\\NuGet.Config",
