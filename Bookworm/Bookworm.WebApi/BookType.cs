@@ -17,7 +17,7 @@ namespace Bookworm.WebApi
                 "AuthorName",
                 resolve: context => context.Source.AuthorName
             );
-            Field<BookFormatTypeEnumType>("BookFormatType", "Book format type");
+            Field<BookFormatTypeEnumType>("BookFormatType", resolve: context => context.Source.Format);
             Field(t => t.Length, nullable: true);
             Field(t => t.PublishedDate, nullable: true);
         }
