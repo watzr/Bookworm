@@ -31,7 +31,7 @@ if (app.Environment.IsDevelopment())
     app.UseGraphQLAltair();
 }
 
-//app.UseGraphQL<BookSchema>();
+// Add GraphQL middleware
 app.UseGraphQL<ISchema>();
 
 app.UseHttpsRedirection();

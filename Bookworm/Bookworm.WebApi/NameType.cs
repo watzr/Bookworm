@@ -10,7 +10,6 @@ namespace Bookworm.WebApi
             Name = "Name";
             Description = "NameType";
             Field(t => t.FirstName);
-            Field(t => t.MiddleName, nullable: true);
             Field(t => t.LastName);
         }
     }
